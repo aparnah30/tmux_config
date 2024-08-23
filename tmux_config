@@ -7,7 +7,6 @@ bind -r j resize-window -D 5
 bind -r k resize-window -U 5
 bind -r h resize-window -L 5
 bind -r l resize-window -R 5
-
 bind -r m resize-pane -Z
 
 unbind %
